@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name/Username], a B.Tech student passionate about Data Science and Machine Learning.
+👋 Hi, I'm Shahu Sradar, a B.Tech student passionate about Data Science and Machine Learning.
 
 🚀 Actively applying my skills and seeking opportunities to delve deeper into the fascinating world of Data Science and ML.
 
